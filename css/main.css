@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    background-color: #111;
+    color: #0f0;
+    font: 24px/30px Menlo, Consolas, monospace;
+}
+
+.guess-input {
+    padding: 4px;
+    border: 0;
+    background-color: #333;
+    font-size: 18px;
+    color: #ddd;
+}
